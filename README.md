@@ -7,7 +7,7 @@ this repository contains my notes and hands-on practice while learning OSINT (Op
 the focus is on gathering useful information about a target using publicly available tools and techniques.
 
 
-## What I Covered ##
+## What I covered ##
 
 * Domain reconnaissance
 * Subdomain enumeration
@@ -28,9 +28,9 @@ the focus is on gathering useful information about a target using publicly avail
 * Wayback Machine
 
 
-#### 🎯 goal/objective
+#### goal/objective
 
-the goal is to simulate how a pentester(like us) gathers information before attempting any attack.
+the goal is to simulate how a pentester(like me😁💪🏽) gathers information before attempting any attack.
 
 
 #### Disclaimer!
